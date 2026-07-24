@@ -10,7 +10,7 @@
 
 CS student at MIPT · 5 years with Python
 
-Main project — [**stratagema**](https://github.com/lekolanv/stratagema), a backtesting engine for trading strategies
+Main project is [**stratagema**](https://github.com/lekolanv/stratagema), a backtesting engine for trading strategies
 
 <br>
 
