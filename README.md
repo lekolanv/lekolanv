@@ -1,17 +1,17 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=24&duration=3000&pause=900&color=36BCF7&center=true&vCenter=true&width=520&height=45&lines=CS+student+at+MIPT;Python+%2F+backend+%2F+fintech;)](https://github.com/lekolanv)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=24&duration=3000&pause=900&color=36BCF7&center=true&vCenter=true&width=520&height=45&lines=CS+student+at+MIPT;Python+%2F+backend+%2F+fintech)](https://github.com/lekolanv)
 
 </div>
 
 <br>
 
-**Matthew**, 18
-
-5 years with Python
-MIPT 29'
-Main project is [**stratagema**](https://github.com/lekolanv/stratagema), a backtesting engine for trading strategies
+**Matthew**, 18<br>
+5 years with Python<br>
+MIPT '29<br>
+Main project is [**stratagema**](https://github.com/lekolanv/stratagema), a backtesting engine for trading strategies<br>
 Currently: event-driven backtesting, moving stratagema to FastAPI + PostgreSQL
+
 <br>
 
 <div align="center">
@@ -23,7 +23,6 @@ Currently: event-driven backtesting, moving stratagema to FastAPI + PostgreSQL
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 </div>
-
 
 <div align="center">
 
