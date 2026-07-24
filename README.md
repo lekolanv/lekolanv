@@ -8,10 +8,10 @@
 
 **Matthew**, 17
 
-CS student at MIPT · 5 years with Python
-
+5 years with Python
+MIPT 29'
 Main project is [**stratagema**](https://github.com/lekolanv/stratagema), a backtesting engine for trading strategies
-
+Currently: event-driven backtesting, moving stratagema to FastAPI + PostgreSQL
 <br>
 
 <div align="center">
@@ -24,12 +24,6 @@ Main project is [**stratagema**](https://github.com/lekolanv/stratagema), a back
 
 </div>
 
-<br>
-
-<div align="center">
-</div>
-
-<br>
 
 <div align="center">
 
