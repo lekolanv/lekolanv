@@ -6,11 +6,12 @@
 
 <br>
 
-**Matthew**, 18<br>
+**Matthew**, 17<br>
 5 years with Python<br>
 MIPT '29<br>
 Main project is [**stratagema**](https://github.com/lekolanv/stratagema), a backtesting engine for trading strategies<br>
-Currently: event-driven backtesting, moving stratagema to FastAPI + PostgreSQL
+Currently: event-driven backtesting, moving stratagema to FastAPI + PostgreSQL<br>
+**Fields of interest:** API, fintech, big data, AI
 
 <br>
 
