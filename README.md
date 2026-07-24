@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=24&duration=3000&pause=900&color=36BCF7&center=true&vCenter=true&width=520&height=45&lines=CS+student+at+MIPT;Python+%2F+backend+%2F+fintech;Building+a+backtesting+engine)](https://github.com/lekolanv)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=24&duration=3000&pause=900&color=36BCF7&center=true&vCenter=true&width=520&height=45&lines=CS+student+at+MIPT;Python+%2F+backend+%2F+fintech;)](https://github.com/lekolanv)
 
 </div>
 
