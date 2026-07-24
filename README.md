@@ -27,9 +27,6 @@ Main project — [**stratagema**](https://github.com/lekolanv/stratagema), a bac
 <br>
 
 <div align="center">
-
-[![LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=lekolanv&theme=dark)](https://leetcode.com/lekolanv/)
-
 </div>
 
 <br>
